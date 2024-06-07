@@ -2,15 +2,14 @@
 
 Microsoft MVP
 
-https://space.bilibili.com/370266611
+Github
 https://github.com/HeBianGu
-https://blog.csdn.net/u010975589
 
-微软最具价值专家
+bilibili
+https://space.bilibili.com/370266611
 
-Blog: https://blog.lindexi.com/
-博客园：https://www.cnblogs.com/lindexi
-CSDN: https://lindexi.blog.csdn.net/
+CSDN
+https://blog.csdn.net/u010975589?type=blog
 
 <!--
 **HeBianGu/HeBianGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
