@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-Microsoft MVP
+## Github 
 
-Github
 https://github.com/HeBianGu
 
-bilibili
+## bilibili
+
 https://space.bilibili.com/370266611
 
-CSDN
+## CSDN
+
 https://blog.csdn.net/u010975589?type=blog
+
+## Microsoft MVP
+
+![qrcode](https://raw.githubusercontent.com/HeBianGu//HeBianGu/main/Document/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png)
 
 <!--
 **HeBianGu/HeBianGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
