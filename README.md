@@ -4,6 +4,15 @@
 
 https://github.com/HeBianGu
 
+### 推荐项目
+https://github.com/HeBianGu/WPF-ControlBase
+
+https://github.com/HeBianGu/WPF-Diagram
+
+https://github.com/HeBianGu/WPF-Control
+
+https://github.com/HeBianGu/Avalonia-Controls
+
 ## bilibili
 
 https://space.bilibili.com/370266611
