@@ -13,6 +13,32 @@ https://github.com/HeBianGu/WPF-Control
 
 https://github.com/HeBianGu/Avalonia-Controls
 
+https://github.com/HeBianGu/WPF-MediaConverter
+
+https://github.com/HeBianGu/WPF-WebProxy
+
+https://github.com/HeBianGu/WPF-Tool
+
+https://github.com/HeBianGu/WPF-Installer
+
+https://github.com/HeBianGu/WPF-ControlDemo
+
+https://github.com/HeBianGu/WPF-Chart
+
+https://github.com/HeBianGu/WPF-MediaPlayer
+
+https://github.com/HeBianGu/WPF-SystemKeyboard
+
+https://github.com/HeBianGu/WPF-ScreenData
+
+https://github.com/HeBianGu/WPF-Drawing3D
+
+https://github.com/HeBianGu/WCF-Service
+
+https://github.com/HeBianGu/WPF-DrawingSource
+
+https://github.com/HeBianGu/WPF-ImagePlayer
+
 ## bilibili
 
 https://space.bilibili.com/370266611
