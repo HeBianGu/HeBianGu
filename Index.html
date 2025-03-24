@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的主页</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>欢迎来到我的主页</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">关于我</a></li>
+                    <li><a href="#services">服务</a></li>
+                    <li><a href="#portfolio">作品集</a></li>
+                    <li><a href="#contact">联系我</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>关于我</h2>
+            <p>我是一个热爱编程和设计的开发者，专注于创建高效、美观的网页和应用。</p>
+        </div>
+    </section>
+
+    <section id="services" class="section">
+        <div class="container">
+            <h2>我的服务</h2>
+            <ul>
+                <li>网页设计与开发</li>
+                <li>移动应用开发</li>
+                <li>UI/UX 设计</li>
+                <li>技术咨询</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="portfolio" class="section">
+        <div class="container">
+            <h2>作品集</h2>
+            <div class="portfolio-items">
+                <div class="item">
+                    <img src="project1.png" alt="项目 1">
+                    <p>项目 1 描述</p>
+                </div>
+                <div class="item">
+                    <img src="project2.png" alt="项目 2">
+                    <p>项目 2 描述</p>
+                </div>
+                <div class="item">
+                    <img src="project3.png" alt="项目 3">
+                    <p>项目 3 描述</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>联系我</h2>
+            <form action="#" method="post">
+                <label for="name">姓名:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">邮箱:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">留言:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">发送</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 我的主页. 保留所有权利.</p>
+        </div>
+    </footer>
+</body>
+</html>
