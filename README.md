@@ -8,11 +8,11 @@ https://github.com/HeBianGu
 https://hebiangu.github.io/HeBianGu/
 
 ### 推荐项目
-https://github.com/HeBianGu/WPF-ControlBase
+https://github.com/HeBianGu/WPF-ControlBase(推荐)
+
+https://github.com/HeBianGu/WPF-Control(强力推荐)
 
 https://github.com/HeBianGu/WPF-Diagram
-
-https://github.com/HeBianGu/WPF-Control
 
 https://github.com/HeBianGu/Avalonia-Controls
 
