@@ -12,6 +12,16 @@ https://github.com/HeBianGu/WPF-ControlBase
 
 ### 强力推荐项目
 https://github.com/HeBianGu/WPF-Control
+#### 首页
+https://hebiangu.github.io/WPF-Control/Home.html
+#### 开发文档
+https://hebiangu.github.io/WPF-Control-Docs/
+#### 版本列表
+https://github.com/HeBianGu/WPF-Control/releases
+#### 服务协议
+https://hebiangu.github.io/WPF-Control/ServiceAgreement.html
+#### 隐私政策
+https://hebiangu.github.io/WPF-Control/PrivacyPolicy.html
 
 ### 其他项目
 https://github.com/HeBianGu/WPF-Diagram
