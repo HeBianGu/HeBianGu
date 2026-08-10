@@ -66,6 +66,10 @@ https://blog.csdn.net/u010975589?type=blog
 
 ![qrcode](https://raw.githubusercontent.com/HeBianGu//HeBianGu/main/Document/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png)
 
+https://www.credly.com/badges/b9b2bec5-a0bb-4ba6-be7d-ed8e0fbb7e7d/public_url
+
+
+
 ## 推荐学习官方文档
 https://learn.microsoft.com/zh-cn/dotnet/api/system.windows.controls?view=windowsdesktop-8.0?wt.mc_id=MVP_380318
 ## 推荐查看在线源码
